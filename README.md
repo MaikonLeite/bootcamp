@@ -9,4 +9,4 @@
 - Primeiros comando
 
 ## Primeira modificação ##
-- Criação de arrays
+- Criação de arrays impares/pares.
